@@ -1,0 +1,10 @@
+{
+                "msg": "failed operation",
+                "code": 500,
+                "eventId": "123456789-qwertyuio-abcdefghi-123456",
+                "error": {
+                  "type": "SERVER_ERROR",
+                  "title": "INTERNAL SERVER ERROR",
+                  "details": "The server encountered an unexpected condition which prevent it from fulfilling the request"
+                }   
+              }

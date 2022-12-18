@@ -1,0 +1,10 @@
+ {
+                "msg": "failed operation",
+                "code": 400,
+                "eventId": "123456789-qwertyuio-abcdefghi-123456",
+                "error": {
+                  "type": "BAD REQUEST",
+                  "title": "Invalid request",
+                  "details": "The input cointains invalid data"
+                }   
+              }

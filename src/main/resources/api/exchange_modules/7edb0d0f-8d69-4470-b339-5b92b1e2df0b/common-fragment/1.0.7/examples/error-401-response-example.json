@@ -1,0 +1,10 @@
+{
+                "msg": "failed operation",
+                "code": 401,
+                "eventId": "123456789-qwertyuio-abcdefghi-123456",
+                "error": {
+                  "type": "UNAUTHORIZED",
+                  "title": "unauthorized",
+                  "details": "The request is not unauthorized"
+                }   
+              } 

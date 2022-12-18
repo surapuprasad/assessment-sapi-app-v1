@@ -1,0 +1,17 @@
+#%RAML 1.0 Trait
+
+headers:
+      X-fms-transactionId:
+        required: true
+        maxLength: 36
+        minLength: 36
+        type: string
+        example: "123456789-qwertyuio-abcdefghi-123456"
+      X-fms-clientId:
+        required: true
+        type: string
+        example: "45678etyrfuigh5678"
+      X-fms-clientSecret:
+        required: true
+        type: string
+        example: "56789fghijubntyui67"

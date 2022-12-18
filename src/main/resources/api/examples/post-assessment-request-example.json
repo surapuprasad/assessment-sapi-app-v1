@@ -1,0 +1,17 @@
+{
+                "recordAssessmentRequest": {
+                  "userDetails": {
+                    "userId": "Reg1001",
+                    "name": "kumar"
+                  },
+                  "assessmentDetails": [
+                     {
+                       "question": "What is an Investment Objective",
+                       "answer": "option1"
+                     },
+                     {
+                       "question": "What is the Investment Objective",
+                       "answer": "option1"
+                     }
+                   ],
+                  "submitionDateTime": "01-03-2022T12:20:30"}} 
